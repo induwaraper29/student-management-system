@@ -1,0 +1,64 @@
+# IDE and Editor Directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS Specific Files
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# PHP Dependencies (if using Composer)
+vendor/
+composer.lock
+
+# Environment Configuration
+.env
+.env.local
+.env.*.local
+
+# Log Files
+*.log
+logs/
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Cache
+cache/
+.cache/
+*.cache
+
+# PHP-specific
+php-errors.log
+*.phpstorm.meta.php
+_ide_helper.php
+
+# Database Backups (optional - uncomment if storing backups locally)
+# *.sql
+# backups/
+
+# Startup Guide Image (project-specific)
+# Startup Guide.png
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+ehthumbs.db
+Desktop.ini
